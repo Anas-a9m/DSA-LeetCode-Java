@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0728-self-dividing-numbers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0412-fizz-buzz) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
