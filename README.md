@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -39,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
