@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
