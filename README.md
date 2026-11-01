@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0412-fizz-buzz) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
@@ -86,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
