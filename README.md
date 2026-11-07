@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
