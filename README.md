@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
