@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
