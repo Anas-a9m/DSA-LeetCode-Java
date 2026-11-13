@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
