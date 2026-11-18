@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Anas-a9m/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 ## Quicksort
 |  |
 | ------- |
